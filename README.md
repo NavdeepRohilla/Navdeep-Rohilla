@@ -1,57 +1,15 @@
-# 👋 Hi there, I'm Navdeep Rohilla
 
-🚀 Passionate Developer | 🎓 B.Tech AI & DS Student | 🎥 YouTuber @CodeWithNavdeep | 🌱 Lifelong Learner  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithnavdeep) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navdeeprohilla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NavdeepRohillaG) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@codewithnavdeep) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navdeeprohilla03@gmail.com) 
 
----
-
-## 🧠 About Me
-
-I'm a second-year B.Tech student majoring in **Artificial Intelligence & Data Science** with a strong interest in building impactful projects using **Machine Learning**, **Data Science**, and **Full Stack Web Development**. I love exploring new tech, solving real-world problems through code, and sharing my learning journey with others.
-
-- 🔭 Currently working on: **Loan Default Prediction** & YouTube coding content  
-- 🎯 Goal for 2025: Publish my own apps, complete DSA + Web Dev roadmap, and crack major internships  
-- 🧩 Interests: AI, Data Visualization, Tech Startups, Personal Growth  
-- 📹 Active on YouTube: [CodeWithNavdeep](https://youtube.com/@CodeWithNavdeep)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=navdeeprohilla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=navdeeprohilla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=navdeeprohilla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=navdeeprohilla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-- **Languages:** Python, Java, JavaScript, C  
-- **ML & DS:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Web:** HTML, CSS, JavaScript, React, Node.js (MERN Stack)  
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Android Studio  
-- **Other Skills:** Data Cleaning, EDA, Video Editing, Canva, Excel  
-
----
-
-## 📌 Current Projects
-
-- 🧠 **Loan Default Prediction:** ML-based model to predict loan risk  
-- 🌐 **College Tour Website:** Interactive website showing college landmarks  
-- 🎥 **YouTube Series:** DSA & Development tutorials for beginners  
-- 🤖 **Smart Monitoring System:** Arduino-based people counter (TechFest project)
-
----
-
-## 📈 What I'm Learning
-
-- 🔍 Deepening ML + AI knowledge through hands-on projects  
-- 💻 Mastering full-stack development with the MERN stack  
-- 📚 Improving DSA problem-solving (Arrays to Graphs)  
-- 🗣️ Practicing English speaking and camera confidence daily
-
----
-
-## 📬 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/navdeeprohilla20)  
-- 📧 navdeeprohilla03@gmail.com  
-- 🧑‍💻 [GitHub](https://github.com/Navdeep-Rohilla)  
-- 🎥 [YouTube](https://youtube.com/@CodeWithNavdeep)
-
----
-
-> “Consistency and curiosity drive growth. I build every day to become a better version of myself — in code and in life.”  
-> — Navdeep Rohilla
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
